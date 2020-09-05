@@ -1,0 +1,6 @@
+
+body {background-color: #000; text-transform: lowercase; font-family: "Courier New", TimesNewRoman; color: #00FF00;}
+
+.comment {color: #FFC0CB;}
+.return {color: #FFF;}
+.hidden {visibility: hidden;}
