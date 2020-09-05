@@ -1,5 +1,3 @@
-alert("Testing");
-
 var IdCount = 0
 
 function Continue(test) {
